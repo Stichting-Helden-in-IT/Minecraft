@@ -6,7 +6,8 @@
         "builder": "*"
     },
     "files": [
-        "tutorials/agent-up.md"        
+        "tutorials/agent-up.md",        
+        "tutorials/myagent.md"
     ],
     "targetVersions": {
         "target": "1.6.8",
