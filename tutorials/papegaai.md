@@ -6,7 +6,7 @@
 ### @explicitHints 1
 
 
-# Program the Agent to move up to the gold plate!
+# Program the Papegaai!
 
 ## Step 1
 papgegaai tutorial
