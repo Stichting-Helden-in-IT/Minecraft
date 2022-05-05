@@ -87,7 +87,7 @@ loops.forever(function () {
 })
 ```
 
-##step 9
+## step 9
 Verander de bottom pointing west naar East side en zet de coördinaten op 244, 74, -110.
 
 ```blocks
