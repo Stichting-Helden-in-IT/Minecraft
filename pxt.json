@@ -8,7 +8,8 @@
     "files": [
         "tutorials/agent-up.md",
         "tutorials/myagent.md",
-        "tutorials/papegaai.md"
+        "tutorials/papegaai.md",
+        "tutorials/blowupOnLever.md"
     ],
     "targetVersions": {
         "target": "1.6.8",
